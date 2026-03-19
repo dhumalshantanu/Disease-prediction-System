@@ -9,7 +9,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
  
 from disease_predictor import DiseasePredictor
- 
+
 app = Flask(__name__)
 CORS(app)
 
