@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 import pandas as pd
 
-class DiseasePredictor:
+class DiseasePredictor: 
     def __init__(self):
         # Load the trained model and necessary components
         self.model = pickle.load(open('best_model.pkl', 'rb'))
