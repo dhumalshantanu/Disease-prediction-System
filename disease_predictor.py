@@ -5,7 +5,7 @@ import pandas as pd
 class DiseasePredictor: 
     def __init__(self):
         # Load the trained model and necessary components
-        self.model = pickle.load(open('best_model.pkl', 'rb'))
+        self.model = pickle.load(open('best_model.pkl', 'rb')) 
         self.label_encoder = pickle.load(open('label_encoder.pkl', 'rb'))
         self.symptoms_list = pickle.load(open('symptoms_list.pkl', 'rb'))
         self.model_info = pickle.load(open('model_info.pkl', 'rb'))
