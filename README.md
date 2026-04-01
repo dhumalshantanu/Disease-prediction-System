@@ -2,7 +2,7 @@
 
 A machine learning-based system that predicts diseases based on symptoms selected by users. 
 
-## Dataset Information
+## Dataset Information 
 - **Diseases**: 41 different diseases
 - **Symptoms**: 131 unique symptoms
 - **Training Samples**: 4,920 records
