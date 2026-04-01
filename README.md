@@ -1,4 +1,4 @@
-# Disease Prediction System
+# Disease Prediction System 
 
 A machine learning-based system that predicts diseases based on symptoms selected by users.
 
