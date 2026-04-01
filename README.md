@@ -1,6 +1,6 @@
 # Disease Prediction System 
 
-A machine learning-based system that predicts diseases based on symptoms selected by users.
+A machine learning-based system that predicts diseases based on symptoms selected by users. 
 
 ## Dataset Information
 - **Diseases**: 41 different diseases
