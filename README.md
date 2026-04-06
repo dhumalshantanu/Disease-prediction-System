@@ -14,7 +14,7 @@ A machine learning-based system that predicts diseases based on symptoms selecte
 - Top 3 disease predictions with confidence scores
 - User-friendly command-line interface
 
-## Files Structure
+## Files Structure 
 ```
 DPS/
 ├── dataset.csv                 # Original dataset
