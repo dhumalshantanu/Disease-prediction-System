@@ -5,7 +5,7 @@ A machine learning-based system that predicts diseases based on symptoms selecte
 ## Dataset Information 
 - **Diseases**: 41 different diseases 
 - **Symptoms**: 131 unique symptoms
-- **Training Samples**: 4,920 records
+- **Training Samples**: 4,920 records 
 - **Model Accuracy**: 100% (on test set)
 
 ## Features
