@@ -38,7 +38,7 @@ DPS/
    ```bash
    python data_preprocessing.py
    python train_models.py
-   ```
+   ``` 
 
 3. **Run the Application**
    ```bash
